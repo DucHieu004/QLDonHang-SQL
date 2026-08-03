@@ -59,13 +59,6 @@ Chạy lần lượt theo thứ tự:
 | ✅ Window Function | Dùng RANK() OVER để xếp hạng doanh thu |
 | ✅ CTE | Common Table Expression cho các truy vấn phức tạp |
 
----
-
-## 📊 Mô hình dữ liệu (ERD)
-
-![ERD](erd.png)
-
----
 
 ## 📂 Chi tiết từng file
 
